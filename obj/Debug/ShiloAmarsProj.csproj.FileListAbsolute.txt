@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShiloAmarsProj\ShiloAmarsProj\bin\Debug\ShiloAmarsProj.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShiloAmarsProj\ShiloAmarsProj\bin\Debug\ShiloAmarsProj.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShiloAmarsProj\ShiloAmarsProj\bin\Debug\ShiloAmarsProj.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShiloAmarsProj\ShiloAmarsProj\bin\Debug\MaterialSkin.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShiloAmarsProj\ShiloAmarsProj\obj\Debug\ShiloAmarsProj.Controls.admissonControl.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShiloAmarsProj\ShiloAmarsProj\obj\Debug\ShiloAmarsProj.Controls.registaretionFormControl.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShiloAmarsProj\ShiloAmarsProj\obj\Debug\ShiloAmarsProj.fullDashBoard.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShiloAmarsProj\ShiloAmarsProj\obj\Debug\ShiloAmarsProj.loginWin.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShiloAmarsProj\ShiloAmarsProj\obj\Debug\ShiloAmarsProj.mainDashBoard.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShiloAmarsProj\ShiloAmarsProj\obj\Debug\ShiloAmarsProj.MainWin.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShiloAmarsProj\ShiloAmarsProj\obj\Debug\ShiloAmarsProj.MDIWin.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShiloAmarsProj\ShiloAmarsProj\obj\Debug\ShiloAmarsProj.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShiloAmarsProj\ShiloAmarsProj\obj\Debug\ShiloAmarsProj.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShiloAmarsProj\ShiloAmarsProj\obj\Debug\ShiloAmarsProj.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShiloAmarsProj\ShiloAmarsProj\obj\Debug\ShiloAmarsProj.pdb

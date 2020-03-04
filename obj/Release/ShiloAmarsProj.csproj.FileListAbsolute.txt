@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShiloAmarsProj\ShiloAmarsProj\obj\Release\ShiloAmarsProj.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShiloAmarsProj\ShiloAmarsProj\obj\Release\ShiloAmarsProj.Controls.admissonControl.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShiloAmarsProj\ShiloAmarsProj\obj\Release\ShiloAmarsProj.Controls.registrationControl.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShiloAmarsProj\ShiloAmarsProj\obj\Release\ShiloAmarsProj.fullDashBoard.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShiloAmarsProj\ShiloAmarsProj\obj\Release\ShiloAmarsProj.loginWin.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShiloAmarsProj\ShiloAmarsProj\obj\Release\ShiloAmarsProj.mainDashBoard.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShiloAmarsProj\ShiloAmarsProj\obj\Release\ShiloAmarsProj.MainWin.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShiloAmarsProj\ShiloAmarsProj\obj\Release\ShiloAmarsProj.MDIWin.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShiloAmarsProj\ShiloAmarsProj\obj\Release\ShiloAmarsProj.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShiloAmarsProj\ShiloAmarsProj\obj\Release\ShiloAmarsProj.csproj.GenerateResource.Cache
